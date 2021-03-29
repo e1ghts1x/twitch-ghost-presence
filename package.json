@@ -1,0 +1,17 @@
+{
+  "name": "ttvbot",
+  "version": "1.0.0",
+  "description": "A twitch bot developed to be present in some livestreams, because i'm lazy or busy all the time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "E1GHTS1X",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1",
+    "tmi.js": "^1.7.5"
+  }
+}

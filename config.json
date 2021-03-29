@@ -1,0 +1,7 @@
+{
+    "username":"YOUR NAME.",
+    "oauth":"YOUR TWITCH TOKEN.",
+    "token":"YOUR DISCORD BOT TOKEN.",
+    "defaultchannel":"YOUR DISCORD SERVER DEFAULT CHANNEL (ID).",
+    "mention":"THE THING THAT YOU WANT TO TRACK."
+}
