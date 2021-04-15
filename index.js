@@ -45,7 +45,7 @@ client.on('connected', (adress, port, err) => {
 })
 
 client.on('message', (channel, tags, message) =>{
-    if(message == config.mention) {
+    if(message.startsWith (config.mention)) {
         const channeldis = disclient.channels.cache.get(config.defaultchannel)
         console.log(`${tags.username} mentioned you in: ${channel}`)
         channeldis.send(`${tags.username} mentioned you in: ${channel}`)
