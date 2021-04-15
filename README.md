@@ -1,5 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/66132515/112811446-76d01b00-9052-11eb-9e95-b50762f8b2ac.png)
->This tool alows you to be on a stream without being online! (I'm not responsible for what you do). Also the tool notifies you when someone mentions you in the desired channel chat. This is my first project, it's something simple. I'm still learning how to program, so feel free to criticize and help me improve.
+>This tool allows you to be on a stream without being online! (I'm not responsible for what you do). Also the tool notifies you when someone mentions you in the desired channel chat. This is my first project, it's something simple. I'm still learning how to program, so feel free to criticize and help me improve.
 
 ## Instalation
 ***Requirements***
